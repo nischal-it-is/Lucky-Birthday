@@ -27,7 +27,7 @@ const calculateSum = (date) => {
       else
       {
           showMessage((`your birthday is not lucky 😕
-          This is just a check everyone is lucky`));
+          This is just a check everyone is lucky if one works hard`));
       }
   }
 
