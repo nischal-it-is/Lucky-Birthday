@@ -78,3 +78,33 @@
     border-width: medium;
     border-radius: 5px;
   }
+  /*footer*/
+  .footer {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+  }
+  
+  .footer .link {
+    color: white;
+  }
+  
+  .footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+  }
+  
+  .footer ul {
+    padding-inline-start: 0px;
+  }
+  .list-non-bullet {
+    list-style: none;
+    padding-inline-start: 0px;
+  }
+  
+  .list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+  }
